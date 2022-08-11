@@ -1,0 +1,11 @@
+/* Write your code here. */
+.thumbnail-list {
+  margin: 5px;
+}
+.button {
+  border-width: 0px;
+  border-radius: 5px;
+}
+.thumbnailClassName {
+  opacity: none;
+}
